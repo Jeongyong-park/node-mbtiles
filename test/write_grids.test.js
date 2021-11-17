@@ -1,4 +1,4 @@
-require('sqlite3').verbose();
+//require('sqlite3').verbose();
 
 var fs = require('fs');
 var tape = require('tape');
